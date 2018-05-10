@@ -1,11 +1,3 @@
-/**
- * BLOGGER TOC WITH ACCORDION EFFECT (SORT BY LABEL)
- * ---------------------------------------------------
- * by domi sherdian
- * URL: http://
- * ---------------------------------------------------
- */
-
 var toc_config = {
 	url: 'https://cetakundangan500.blogspot.com',
 	containerId: 'table-of-content',
