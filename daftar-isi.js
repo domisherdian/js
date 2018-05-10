@@ -1,4 +1,5 @@
-<script>var toc_config = {
+<script>
+var toc_config = {
 	url: 'https://cetakundangan500.blogspot.com',
 	containerId: 'table-of-content',
 	showNew: 15,
